@@ -15,4 +15,4 @@ installed('nginx', {
 	if (code !== 0) return console.log('Package not installed');
 	console.log('Package installed');
 });
-``
+```
