@@ -1,6 +1,6 @@
 {
   "name": "debian-package-installed",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Check if a package is installed on a Debian system",
   "main": "index.js",
   "scripts": {
